@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* banner part Start */
+.banner-part{
+    background-color: #CCCACC;
+    display: flex;
+    justify-content: center;
+
+}
+.banner-elements{
+    background: #868486;
+    color: aliceblue;   
+}
+.banner-elements h2{
+    font-size: 60px;
+}
+
+/* banner part end */
+
+/* about part start  */
+.about-section{
+    background-color: #31BBBD;
+}
+
+/* about part end  */
+
+/* Education part start */
+.circle{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: #D3716D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+/* Education part end */
+
+/* project part start */
+.pro-section{
+    background-color: #31BBBD;
+}
+
+
+/* project part end */
