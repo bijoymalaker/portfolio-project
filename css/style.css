@@ -1,40 +1,44 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
-*{
+
+* {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 
 }
-body{
+
+body {
     font-family: 'Open Sans', sans-serif;
 }
 
 /* banner part Start */
-.banner-part{
+.banner-part {
     background-color: #CCCACC;
     display: flex;
     justify-content: center;
 
 }
-.banner-elements{
+
+.banner-elements {
     background: #868486;
-    color: aliceblue;   
+    color: aliceblue;
 }
-.banner-elements h2{
+
+.banner-elements h2 {
     font-size: 60px;
 }
 
 /* banner part end */
 
 /* about part start  */
-.about-section{
+.about-section {
     background-color: #31BBBD;
 }
 
 /* about part end  */
 
 /* Education part start */
-.circle{
+.circle {
     width: 150px;
     height: 150px;
     border-radius: 50%;
@@ -51,9 +55,10 @@ body{
 /* Education part end */
 
 /* project part start */
-.pro-section{
+.pro-section {
     background-color: #31BBBD;
 }
 
 
 /* project part end */
+
